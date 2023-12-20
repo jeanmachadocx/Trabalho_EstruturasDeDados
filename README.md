@@ -28,4 +28,11 @@ Linha com a string “Selecionados”.
 Lista de candidatos selecionados com nome e nota média, em ordem decrescente de nota.
 Linha com a string “Fila de Espera”.
 Lista de candidatos na fila de espera com nome e nota média, em ordem decrescente de nota.
-Uma linha em branco após o último nome da fila de espera de cada curso
+Uma linha em branco após o último nome da fila de espera de cada curso <br>
+
+<h3>Como executar?</h3>
+O primeiro passo é criar os arquivos txt de entrada e saida no diretório: \\C:\AED Logo em seguida copie o modelo de entrada.txt que está no github. Pronto, você já poderá executar o projeto.
+
+
+
+
